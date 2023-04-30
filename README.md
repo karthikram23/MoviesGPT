@@ -10,3 +10,5 @@ Movie Recommendation System
 
 The link for the dataset used is: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
+first store the Home.py file and create a folder for next 4 files and name it pages and store them in it, now run home.py.
+
